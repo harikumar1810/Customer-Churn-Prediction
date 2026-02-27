@@ -116,6 +116,5 @@ Computational Time & Memory Usage
 
 Cross-validation showed highly consistent AUC performance across boosting models (~0.97 average AUC)
 
-**Conclusion:
-**
+**Conclusion**
 This project successfully applies hybrid machine learning techniques to predict telecom customer churn with high reliability. The comparative study shows that while gradient boosting models achieve similar accuracy, their efficiency, stability, and data suitability differ. The system provides a practical, data-driven framework to support customer retention strategies and real-world deployment of churn prediction solutions.
